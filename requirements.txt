@@ -1,3 +1,6 @@
 ydata-profiling
 jupyterlab
+notebook
 scikit-learn
+plotly
+xgboost
